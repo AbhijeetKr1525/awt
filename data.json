@@ -75,9 +75,11 @@
           "name": "Experiment 6",
           "files": [
             {
+              "name": "index.js",
               "path": "lab/exp5_6/index.js"
             },
             {
+              "name": "server.js",
               "path": "lab/exp5_6/server.js"
             }
           ]
@@ -89,9 +91,12 @@
         {
           "name": "Experiment 8",
           "path": "lab/exp8/mongoose-demo/server.js"
+        },
+        {
+          "name": "Experiment 9 & 10",
+          "path": "lab/exp9_10/index.html"
         }
       ]
     }
   ]
 }
-

@@ -1,24 +1,15 @@
 {
   "name": "awt-lab-1",
   "version": "1.0.0",
-  "description": "",
-  "main": "aap.js",
+  "private": true,
+  "description": "AWT Lab Static Website",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo 'Static project - no build needed'",
+    "start": "echo 'No server required. Open index.html manually.'"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AbhijeetKr1525/AWT-Lab-1.git"
-  },
+  "homepage": "https://abhijeetkr1525.github.io/AWT-Lab-1/",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/AbhijeetKr1525/AWT-Lab-1/issues"
-  },
-  "homepage": "https://github.com/AbhijeetKr1525/AWT-Lab-1#readme",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "license": "ISC"
 }
+
